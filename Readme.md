@@ -5,8 +5,8 @@ The habits app is and will be free for anyone that wishes to track their daily a
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">License</a>
 </p>
@@ -30,11 +30,11 @@ For this project we used the bellow technologies:
 - Git & Github
 - Figma
 
-## 💻 Preject
+## 💻 Project
 
 The Habits app is made for you to track your daily activities.
 
-- [Visit this project online](https://maykbrito.github.io/nlw-setup)
+- [Visit this project online](https://moysespimenta.github.io/Habits-tracker-app)
 
 ## 🔖 Layout
 
